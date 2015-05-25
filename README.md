@@ -12,7 +12,7 @@ Remote Sensing Letters, 2012.
 
 Please cite the above reference if you publish work that uses this code.
 
-## Tested us: 
+## Tested on: 
 - OSX 10.6 
 - Python 2.6, numpy 1.6, scipy 0.9
 - Matlab R2011a
