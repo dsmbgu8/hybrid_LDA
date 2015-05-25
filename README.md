@@ -1,4 +1,4 @@
-# hybrid_lda metric learning package
+# hybrid_LDA metric learning package
 
 ## Description 
 
@@ -12,7 +12,7 @@ Remote Sensing Letters, 2012.
 
 Please cite the above reference if you publish work that uses this code.
 
-## Tested on: 
+## Tested us: 
 - OSX 10.6 
 - Python 2.6, numpy 1.6, scipy 0.9
 - Matlab R2011a
@@ -35,6 +35,11 @@ where:
 
 Functions to calculate the continuum-removed representation of a
 spectral signature are provided in the LINCR library available at:
+
+https://github.com/dsmbgu8/LINCR
+
+or
+
 http://www.ece.rice.edu/~bdb1/#code.
 
 
